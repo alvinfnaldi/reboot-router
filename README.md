@@ -11,4 +11,7 @@ Puppeteer will : Open a homepage --> typing password --> login --> checking ip a
   <li>Open it with your IDE</li>
   <li>Open terminal & type "npm install"</li>
   <li>Customize your preferences URL Link or IP Address of your own Router/Modem</li>
+  <li>Run "node reboot.js" in terminal until it finds ip and the router not restart because of right ip</li>
 </ol>
+
+<h4>Next update plan : Login itself again after restarting to check WAN IP Address without leaving the browser</h4>
