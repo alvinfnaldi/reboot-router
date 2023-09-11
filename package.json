@@ -1,0 +1,21 @@
+{
+  "name": "scrape-pahe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "edge-paths": "^3.0.5",
+    "puppeteer": "^20.7.4",
+    "puppeteer-core": "^20.7.4",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
